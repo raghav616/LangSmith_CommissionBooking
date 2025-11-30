@@ -1,0 +1,15 @@
+﻿Reason Code,Description,Type,Promo/Non-Promo
+22,Billed Items Not Shipped,Shortage,Non-Promo
+24,Carton Shortage (Signed Short),Shortage,Non-Promo
+31,Price Discrepancy – Lower Contract Price,Pricing,Non-Promo
+35,Damaged Goods – Customer Reported,Damage,Non-Promo
+41,Duplicate Billing,Billing Error,Non-Promo
+46,Early Payment Discount Taken,Payment Terms,Non-Promo
+51,Promotional Discount Missing,Promo,Promo
+60,Goods Returned – No Credit Issued,Returns,Non-Promo
+65,Customer Overpaid on Prior Invoice,Payment Error,Non-Promo
+70,Wrong Item Shipped,Shipping Error,Non-Promo
+80,Tax Discrepancy,Tax Adjustment,Non-Promo
+85,Freight Overcharged,Freight Dispute,Non-Promo
+90,Invoice Not Received,Admin Issue,Non-Promo
+95,Unidentified Deduction – Pending Research,Undefined,Non-Promo

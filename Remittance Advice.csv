@@ -1,0 +1,7 @@
+﻿Deduction ID,Type,Ref ID Qualifier,Reference ID,Payment Action Code,Monetary Amount,Monetary Amount 2,Ref Qualifier,Reference,Ref Description,Note Ref Code,Reason Code,Reason Description,Promo/Non-Promo
+111222333,Remittance,IV,INV-2391,PO,2500,2500,ST,DR-9934,POD - DR-9934,2,22,Short delivery - 5 units,Non-Promo
+111222333,Adjustment,CM,DM-1022,MC,-2500,,ST,DR-9934,Referenced in Debit Memo,2,22,Short delivery - 5 units,Non-Promo
+333333322,Remittance,IV,INV-9876,PO,996,996,ST,POD-1122,POD - Signed Short Carton,3,24,Carton shortage (signed short),Promo
+333333322,Adjustment,CM,DM-1122,MC,-996,,ST,POD-1122,Referenced in Debit Memo,3,24,Carton shortage (signed short),Promo
+1111111222,Remittance,IV,INV-5589,PO,201.6,201.6,ST,DR-1001,POD - Not Shipped,4,29,Merchandise billed not shipped,Non-Promo
+1111111222,Adjustment,CM,DM-5589,MC,-201.6,,ST,DR-1001,Referenced in Debit Memo,4,29,Merchandise billed not shipped,Non-Promo

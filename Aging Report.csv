@@ -1,0 +1,2 @@
+﻿Identifier,Customer,Account,Document Number,Line item,Document Date,Net due date,Posting Date,Document Type,Posting Key,Reason code,Billing Document,Reference,Reference key 1,Amount in local currency,Assignment,Text,Arrears after net due date,6/4/2025 Aging,6/30/2025 Forward Aging,Promo/Non-Promo,Validity,Rcd Description,Managed-by
+111222333,ABC Retailers Pvt Ltd,55667788,INV-2391,1,4/15/2025,4/30/2025,4/15/2025,DZ,15,22,122456,DR-9934,PO#122456,-2500,wire#5401,5 units short – Aloe Shampoo,49,31-45 DAYS,46 - 90 DAYS,Non-Promo (COA),Royalty COA,Royalty Cash,ABC-Manager01
